@@ -1,6 +1,6 @@
 # Breast Cancer Predictor
 
-This application is a Streamlit-based web app designed to help diagnose breast cancer. It uses machine learning to predict whether a breast mass is benign or malignant based on cell nuclei measurements. 
+This application is a Streamlit-based web app designed to help diagnose breast cancer. It uses machine learning to predict whether a breast mass is benign or malignant based on cell nuclei measurements. This is an extension of a project that is present on my GitHub of breast cancer predictions, where I did some EDA on the data obtained from a wisconsin hospital via Kaggle. That project was a jupyter notebook with an exploration of the dataset. This is an application of it.
 
 ## Features
 
