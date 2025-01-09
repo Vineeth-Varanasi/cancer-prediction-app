@@ -1,4 +1,3 @@
-```markdown
 # Breast Cancer Predictor
 
 This application is a Streamlit-based web app designed to help diagnose breast cancer. It uses machine learning to predict whether a breast mass is benign or malignant based on cell nuclei measurements. 
@@ -15,7 +14,6 @@ This application is a Streamlit-based web app designed to help diagnose breast c
    ```bash
    git clone https://github.com/your-repo/breast-cancer-predictor.git
    cd cancer-predictor-app
-   ```
 
 2. Install the required Python libraries:
    ```bash
